@@ -7,14 +7,14 @@ Implementação de todo a aprendizado visto durante o treinamento atravez da cri
 
 ## 💻 Tecnologias Utilizadas
 
--JavaScript
--Persistencia dos dados atravez do MongoDB :leaves:
--Todo a back-end desenvolvido com Node.js
--Criação de API's com a auxilio do Express.js
--Criação do Front-end em React.js
--Integração das API's com a auxilio do Axios
--Versionamento atravez do .git
--Deploy no Heroku
+- JavaScript
+- Persistencia dos dados atravez do MongoDB :leaves:
+- Todo a back-end desenvolvido com Node.js
+- Criação de API's com a auxilio do Express.js
+- Criação do Front-end em React.js
+- Integração das API's com a auxilio do Axios
+- Versionamento atravez do .git
+- Deploy no Heroku
 
 ## Link do Aplicativo
 https://rush-bootcamp-desafio-final.herokuapp.com/
