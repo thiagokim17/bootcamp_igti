@@ -8,7 +8,7 @@ Implementação de todo a aprendizado visto durante o treinamento atravez da cri
 ## 💻 Tecnologias Utilizadas
 
 - JavaScript
-- Persistencia dos dados atravez do MongoDB :leaves:
+- Persistencia dos dados atravez do MongoDB
 - Todo a back-end desenvolvido com Node.js
 - Criação de API's com a auxilio do Express.js
 - Criação do Front-end em React.js
