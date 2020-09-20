@@ -21,8 +21,4 @@ https://rush-bootcamp-desafio-final.herokuapp.com/
 
 ## Certificado Top Performance
 
-![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/thiagokim17-full.png)
-
-![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/thiagokim17-full-2.png)
-
-![Cat](https://github.com/thiagokim17/dev_ninja/blob/master/certificado-master/ImersaoDev-Certificado.png)
+![Cat](https://github.com/thiagokim17/bootcamp_igti/blob/master/certificado.png)
